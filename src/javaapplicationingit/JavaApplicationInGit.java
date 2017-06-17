@@ -15,7 +15,7 @@ public class JavaApplicationInGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Sanjay. It just gets Awesome bcoz Netbeans connected to Github");
+        System.out.println("Hello Sanjay. It just gets Awesome...bcoz Netbeans connected to Github");
         
         // TODO code application logic here
     }
